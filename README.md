@@ -1,4 +1,4 @@
-# MITRE-threat-hunt
+# THREAT INTELLIGENCE AND HUNTING WITH MITRE-ATT&CK- NAVIGATOR
 ## MITRE Threat Hunt
 
 MITRE Threat Hunt is an open-source cybersecurity initiative focused on leveraging the MITRE ATT&CK® Framework for proactive threat hunting, adversary emulation, and incident detection.
